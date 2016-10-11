@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Acme');
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon');
+
+body {
+  background-image: url(https://i.ytimg.com/vi/v1SabYdIlZI/maxresdefault.jpg);
+}
+h1 {
+  font-family: 'Acme', sans-serif;
+  color: pink;
+}
+p{
+  font-family: 'Coming Soon', cursive;
+  color: DarkSlateGrey;
+}
